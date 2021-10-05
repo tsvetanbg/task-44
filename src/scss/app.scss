@@ -14,7 +14,7 @@
 @import "base/mixins";
 
 html {
-  font-family: -apple-system, $main-font;
+  font-family: $main-font;
   background: $background;
 }
 
